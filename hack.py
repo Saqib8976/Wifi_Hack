@@ -16,7 +16,7 @@ import collections
 import statistics
 import csv
 from typing import Dict
-print("enjoy")
+print("like my github repository to support #####ENJOY######")
 class NetworkAddress:
     def __init__(self, mac):
         if isinstance(mac, int):
@@ -1178,7 +1178,7 @@ if __name__ == '__main__':
                 else:
                     args.bssid = None
             else:
-                print("enjoy")
+                print("##########Enjoy##########")
                 break
 
     if args.iface_down:
