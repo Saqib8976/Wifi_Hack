@@ -10,7 +10,7 @@ $ pkg install -y root-repo
 
 $ pkg install -y git tsu python wpa-supplicant pixiewps iw
 
-$ git clone 
+$ git clone https://github.com/Saqib8976/Wifi_Hack
 
 $ cd Wifi_Hack
 
