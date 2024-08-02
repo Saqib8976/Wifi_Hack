@@ -16,6 +16,10 @@ import collections
 import statistics
 import csv
 from typing import Dict
+print('''
+One line Command:\nsudo python Wifi_Hack/hack.py -i wlan0 -K\n
+For Help Type:\npython Wifi_Hack/hack.py --help\033[0m
+''')
 print("like my github repository to support #####ENJOY######")
 class NetworkAddress:
     def __init__(self, mac):
