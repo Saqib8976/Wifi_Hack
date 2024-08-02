@@ -14,7 +14,7 @@ $ git clone https://github.com/Saqib8976/Wifi_Hack
 
 $ cd Wifi_Hack
 
-$ chmod +x birihack.py
+$ chmod +x hack.py
 
 $ sudo python hack.py --help
 ```
