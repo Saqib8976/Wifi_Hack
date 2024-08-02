@@ -18,11 +18,11 @@ import csv
 from typing import Dict
 
 print('''
-\033[1;92m Recoded By THBD
+\033[1;92m Recoded By ME
 BiRi_B@B@
 Telegram:https://t.me/termux_hacker_bd
-One line Command:\nsudo python Wifi_Hack/birihack.py -i wlan0 -K\n
-For Help Type:\npython Wifi_Hack/birihack.py --help\033[0m
+One line Command:\nsudo python Wifi_Hack/hack.py -i wlan0 -K\n
+For Help Type:\npython Wifi_Hack/hack.py --help\033[0m
 ''')
 class NetworkAddress:
     def __init__(self, mac):
@@ -1185,7 +1185,7 @@ if __name__ == '__main__':
                 else:
                     args.bssid = None
             else:
-                print("\nAborting…\nStay With\nTHBD")
+                print("\nAborting…\nStay With\nME")
                 break
 
     if args.iface_down:
